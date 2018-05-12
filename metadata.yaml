@@ -1,0 +1,41 @@
+_repo: Onder-Moeders-Vleugels_17337
+_version: 0.1.0
+alternative_title: Little women. Dutch
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Barnard, A. M.
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+  editor:
+    agent_name: Elberts, G. W.
+    gutenberg_agent_id: '7313'
+    url: http://www.gutenberg.org/2009/agents/7313
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2005-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17337'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family life -- New England -- Fiction'
+- !lcsh 'March family (Fictitious characters) -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Sisters -- Fiction'
+title: Onder Moeders Vleugels
+url: http://www.gutenberg.org/ebooks/17337
